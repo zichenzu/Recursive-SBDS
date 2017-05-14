@@ -8,7 +8,7 @@ Put all hpp files into gecode/mytest.
 Note that we set opt.c_d(1) in our experiment, please do not change this.
 
 
-To run the N-Queens problem (e.g. N=10) using one of the symmetry breaking methods:
+To run the N-Queens problem (e.g. N=10) using one of the symmetry breaking methods SBDS/ParSBDS/ReSBDS/LDSB:
 
 ./queens -search sbds 10
 ./queens -search parsbds 10
