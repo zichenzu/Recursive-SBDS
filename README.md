@@ -1,7 +1,7 @@
 # Recursive-SBDS
 Recursive SBDS
 
-This is the implementation of the paper "J. Lee, Z. Zhu, Boosting SBDS for partial symmetry breaking in constraint programming, in: Proceeding of the 28th AAAI Conference on Artificial Intelligence, 2014, pp. 2695–2702."
+This is the implementation of the paper "Jimmy H.M. Lee and Zichen Zhu.  Boosting SBDS for Partial Symmetry Breaking in Constraint Programming, Proceedings of the 28th AAAI Conference on Artificial Intelligence (AAAI 2014), pages 2695-2702, Quebec City, Quebec, Canada, July, 2014"
 
 Please use Gecode Solver 4.2.0 to run these files.
 
