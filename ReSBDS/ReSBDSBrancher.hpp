@@ -3,7 +3,7 @@
 
 #include <gecode/int/branch.hh>
 #include <gecode/int.hh>
-#include <gecode/mytest/head.hpp>
+#include <gecode/ReSBDS/head.hpp>
 
 namespace Gecode {
 
